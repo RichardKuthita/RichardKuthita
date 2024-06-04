@@ -20,8 +20,8 @@ Here are some of the skills and technologies I excel in:
 - **HTML5**: 80%
 - **CSS3**: 55%
 - **JavaScript**: 75%
-- **ReactJS**: 75%
-- **NodeJS**: 87%
+- **ReactJS**: 33%
+- **NodeJS**: 47%
 - **PHP**: 72%
 - **SQL**: 74%
 - **MongoDB**: 2%
@@ -29,7 +29,7 @@ Here are some of the skills and technologies I excel in:
 - **C++**: 6%
 - **Linux**: 3%
 - **Kotlin**: 2%
-- **Python**: 60%
+- **Python**: 50%
 
 ### Services I Offer
 
